@@ -19,7 +19,6 @@ body {
 
 /* Navigation Menu */
 .navig {
-  background-color: #0000ffd5;
   padding: 1em 2em;
   display: flex;
   justify-content: space-between;
